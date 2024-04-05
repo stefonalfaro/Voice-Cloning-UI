@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/voice-clone-ui/browser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
